@@ -4,7 +4,6 @@ ZK Bootcamp
 Curriculum
 ----------
 . Maths and cryptography introduction
-
 . General theory of zero-knowledge proofs
 . zk-SNARK / zk-STARK theory
 . Development languages and platforms — Zokrates / Cairo / SnarkyJS
